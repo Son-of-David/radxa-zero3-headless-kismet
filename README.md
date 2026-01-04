@@ -1,6 +1,6 @@
 # radxa-zero3-headless-kismet
 Run kismet on a radxa-zero-3 with your phone and a wireless adapter. Pipe your phones gps data to kismet for precise coordinates of information gathered. 
-Download image here 16GB SD card image available for download at https://torchurch.us
+
 # S.O.D – Radxa Zero 3 Kismet Headless AP + Phone GPS Bridge
 
 This project showcases a Radxa Zero 3 configured to:
